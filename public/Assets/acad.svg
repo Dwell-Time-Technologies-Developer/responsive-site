@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <style>
+            .cls-2{fill:#1976d2}
+        </style>
+    </defs>
+    <g id="Group_3353" transform="translate(-1300 -1088)">
+        <circle id="Ellipse_133" cx="40" cy="40" r="40" fill="#afd7ff" transform="translate(1300 1088)"/>
+        <g id="mortarboard" transform="translate(1316 1070.045)">
+            <path id="Path_2454" d="M47.062 50.52l-22.594-7.972a1.405 1.405 0 0 0-.936 0L.938 50.52a1.406 1.406 0 0 0 0 2.651L23.529 61.2a1.405 1.405 0 0 0 .942 0l22.594-8.032a1.406 1.406 0 0 0 0-2.651z" class="cls-2"/>
+            <path id="Path_2455" d="M435.078 210v-12.266l-2.812 1V210a2.824 2.824 0 0 0 0 4.9v6.911a1.406 1.406 0 0 0 2.813 0V214.9a2.824 2.824 0 0 0 0-4.9z" class="cls-2" transform="translate(-390.456 -140.71)"/>
+            <path id="Path_2456" d="M119.559 227.171a4.208 4.208 0 0 1-1.413-.244l-12.7-4.515v6.188c0 1.514 1.579 2.794 4.694 3.805a33.152 33.152 0 0 0 18.841 0c3.115-1.011 4.694-2.291 4.694-3.805v-6.188l-12.7 4.515a4.209 4.209 0 0 1-1.416.244z" class="cls-2" transform="translate(-95.559 -163.074)"/>
+        </g>
+    </g>
+</svg>
